@@ -13,9 +13,8 @@
 
 <p align="center">
 <a href="#about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#installing">Installing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#built_using">Built with</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#author">Authors</a>
+<a href="#author">Author</a>
 </p>
 
 ## 🧐 About <a name = "about"></a>
