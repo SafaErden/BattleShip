@@ -43,8 +43,6 @@
 
 You probably already know how to play Battleship. If you do not know how to play it, please [visit this link](https://en.wikipedia.org/wiki/Battleship_(game)). It's a really simple game, right? That's what most people think. But if you really wrap your brain around it, you'll discover that the battleship isn't quite as simple as you think!
 
-Tic-Tac -Toe (along with a lot of other games) involves looking ahead and trying to figure out what the person playing against you might do next.
-
 How to Play it...
 
 1. When you run the game, first enter a number to create a square grid as your board to play the game on.
